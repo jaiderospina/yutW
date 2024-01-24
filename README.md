@@ -1,4 +1,4 @@
-# yutW
+# Desarrollo Software
 Procedimiento para desarrollar los requisitos de un sistema software que satisfaga las necesidades de negocio
 PROC-0020 (PROCEDIMIENTO)
 Área: Desarrollo de requisitos de un sistema que satisfaga las necesidades de negocio
